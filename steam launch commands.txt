@@ -1,0 +1,1 @@
++exec autoexec.cfg -high -fullscreen -dxlevel95 -threads 8 -dev  -preload -novid +gfx_nvnUseLowLatency 1  -refresh 144 +fps_max 144  +mat_letterbox_aspect_goal 0 +mat_letterbox_aspect_threshold 0 +building_cubemaps "1" +exec framelimiter.cfg
